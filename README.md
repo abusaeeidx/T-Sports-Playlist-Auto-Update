@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.T Sports">
+  <a href="https://play.google.com/store/apps/details?id=com.nex.tsports">
     <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
