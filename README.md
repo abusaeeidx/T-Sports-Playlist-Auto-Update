@@ -50,7 +50,7 @@ This repository provides an **auto-updating system** that fetches working stream
 - 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/YOUR_REPO_HERE/ott_navigator.m3u)
 - 🌐 [Universal M3U](https://raw.githubusercontent.com/YOUR_REPO_HERE/universal_player.m3u)
 
-> Replace `YOUR_REPO_HERE` with your repository path (e.g., `user/repo-name/main`)
+> Replace `https://github.com/abusaeeidx/T-Sports-Playlist-Auto-Update` with your repository path (e.g., `user/abusaeeidx/main`)
 
 ---
 ## 🎥 How To Play  
@@ -64,7 +64,8 @@ This repository provides an **auto-updating system** that fetches working stream
 ### 📺 Android TV  
   
 * Use **OTT Navigator** – [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)  
-* Add playlist: [OTT Playlist](https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u)* Short Link: []()  
+* Add playlist: [OTT Playlist](https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u)
+* Short Link: []()  
   
 <h1 align="center">  
  <img style="height: 80%;" src="https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/image/IMG_20250620_034255.jpg">  
