@@ -21,7 +21,9 @@
 
 ## 📒 Introduction
 
-**[T Sports](https://play.google.com/store/apps/details?id=com.banglalink.T Sports)** is one of Bangladesh's leading entertainment apps, offering TV channels, movies, sports, and more.  
+**[T Sports](https://play.google.com/store/apps/details?id=com.banglalink.T Sports)** is the first sports TV channel in Bangladesh.
+It shows live cricket, football, and other sports.
+You can watch it on TV, online,, sports,
 This repository provides an **auto-updating system** that fetches working stream links, headers, and formats them into `.m3u` playlists and `.json` output — ideal for IPTV players or custom apps.
 
 ---
