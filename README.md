@@ -44,7 +44,7 @@ This repository provides an **auto-updating system** that fetches working stream
 ### 📱 Android  
   
 * Use **Network Stream Player** – [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)  
-* Add playlist: [NS Player Playlist](https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/NS_player.m3u)  
+* Add playlist: [NS Player Playlist](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/ns_player.m3u)  
 * Short Link: []()  
   
 ### 📺 Android TV  
