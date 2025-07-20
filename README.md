@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
-  🔥T Sports Playlist🔥
+  T Sports Playlist
   <br>
 </h1>
 
@@ -23,14 +23,14 @@
 
 **[T Sports](https://play.google.com/store/apps/details?id=com.nex.tsports)** is the first sports TV channel in Bangladesh.
 It shows live cricket, football, and other sports.
-You can watch it on TV, online,, sports,
+You can watch it on TV, online.
 This repository provides an **auto-updating system** that fetches working stream links, headers, and formats them into `.m3u` playlists and `.json` output — ideal for IPTV players or custom apps.
 
 ---
 
 ## 💥 Key Features
 
-- ⏰ Updates every 30 minutes using **GitHub Actions**
+- ⏰ Updates every 30 minutes using **GitHub**
 - 🎥 Includes both premium and public T Sports stream links
 - ✅ Fully working `.m3u8` channel links
 - ✉️ Auto-fetches all necessary headers (Cookies, Tokens, User-Agents)
