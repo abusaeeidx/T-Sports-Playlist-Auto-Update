@@ -101,7 +101,7 @@ This repository provides an **auto-updating system** that fetches working stream
 ---
   
 ## 📝 Legal Notice  
-*⛔  **I do not host any content, everything is publicly available. And any issues, please contact me.
+* ⛔  **I do not host any content, everything is publicly available. And any issues, please contact me.
 * ⚠️ **For educational & research purposes only.**  
 * ❌ Do not use this code to harm, disrupt, or bypass paid content.  
 * 🚫 If it violates content ownership, kindly report & we will remove it.  
