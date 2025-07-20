@@ -70,10 +70,11 @@ This repository provides an **auto-updating system** that fetches working stream
 
 ### 🔗 Direct Links
 
-- ✅ [JSON Channel Data](https://raw.githubusercontent.com/abusaeeidx/channels_data.json)
-- 📱 [NS Player M3U](https://raw.githubusercontent.com/abusaeeidx/ns_player.m3u)
-- 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/abusaeeidx/ott_navigator.m3u)
-- 🌐 [Universal M3U](https://raw.githubusercontent.com/abusaeeidx/universal_player.m3u)
+- ✅ [JSON Channel Data]([https://raw.githubusercontent.com/abusaeeidx/](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/channels_data.json)
+- 📱 [NS Player M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/ns_player.m3u)
+- 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
+- 🌐 [Universal M3U]
+(https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
 
 
 ---
@@ -89,11 +90,7 @@ This repository provides an **auto-updating system** that fetches working stream
 ---
 ## 🖥️  Preview 
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/abusaeeidx/T Sports-playlist/main/image/mobile.jpeg" width="80%">
-</h1>
-
-<h1 align="center">
- <img src="https://github.com/Jeshan-akand/T Sports-Channels-Link-Headers/blob/main/images/ott_view.jpg" width="80%">
+ <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/Picsart_25-07-20_16-25-57-746.jpg" width="80%">
 </h1>
 
 ---
