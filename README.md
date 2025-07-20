@@ -103,10 +103,10 @@ This repository provides an **auto-updating system** that fetches working stream
 ---
   
 ## 📝 Legal Notice  
-* ⛔  **I do not host any content, everything is publicly available. And any issues, please contact me.
-* ⚠️ **For educational & research purposes only.**  
-* ❌ Do not use this code to harm, disrupt, or bypass paid content.  
-* 🚫 If it violates content ownership, kindly report & we will remove it.  
+* ⛔ **I do not host any content, everything is publicly available. And any issues, please contact me.
+* ⚠️ **For educational & research purposes only.** The followin It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me and I will delete it.
+* 🚫 If it violates content ownership, kindly report & we will remove it.
+* Please give me proper credit if you share this content. Otherwise, I will take it down.  
 * 🇷🇼 **Geo-restricted content**: Only available in **Bangladesh**.  
   
 ---  
