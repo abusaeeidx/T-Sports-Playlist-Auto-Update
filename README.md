@@ -50,7 +50,7 @@ This repository provides an **auto-updating system** that fetches working stream
 ### 📺 Android TV  
   
 * Use **OTT Navigator** – [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)  
-* Add playlist: [OTT Playlist](https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u)
+* Add playlist: [OTT Playlist](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/ott_navigator.m3u)
 * Short Link: []()  
   
 ## 🖥️  Preview 
