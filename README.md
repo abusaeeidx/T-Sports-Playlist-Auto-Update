@@ -11,15 +11,7 @@
 <h2 align="center">Auto-updating script for T Sports App Channel Links and Headers (every 30 minutes)</h2>
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue" alt="Python">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Maintained_By-Open_Source-green.svg" alt="Open Source">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.T Sports">
-    <img src="https://img.shields.io/badge/App-T Sports_Live-purple" alt="T Sports App">
-  </a>
+ 
   <a href="#">
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
