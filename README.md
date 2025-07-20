@@ -53,15 +53,15 @@ This repository provides an **auto-updating system** that fetches working stream
 * Add playlist: [OTT Playlist](https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u)
 * Short Link: []()  
   
-<h1 align="center">  
- <img style="height: 80%;" src="https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/image/IMG_20250620_034255.jpg">  
-</h1>  
-<h1 align="center">  
- <img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/ott_view.jpg">  
-</h1>  
-  
+## 🖥️  Preview 
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/Picsart_25-07-20_16-25-57-746.jpg" width="80%">
+</h1>
 
 ---
+  
+
+
 ## 🕹️ How To Use (Developer Guide)
 
 **Auto-updated JSON file:**
@@ -73,8 +73,7 @@ This repository provides an **auto-updating system** that fetches working stream
 - ✅ [JSON Channel Data]([https://raw.githubusercontent.com/abusaeeidx/](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/channels_data.json)
 - 📱 [NS Player M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/ns_player.m3u)
 - 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
-- 🌐 [Universal M3U]
-(https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
+- 📺 [Universal M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
 
 
 ---
@@ -88,12 +87,7 @@ This repository provides an **auto-updating system** that fetches working stream
 | `universal_player.m3u` | Generic playlist for any IPTV player        |
 
 ---
-## 🖥️  Preview 
-<h1 align="center">
- <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/Picsart_25-07-20_16-25-57-746.jpg" width="80%">
-</h1>
 
----
   
 ## 📝 Legal Notice  
 * ⛔ **I do not host any content, everything is publicly available. And any issues, please contact me.
