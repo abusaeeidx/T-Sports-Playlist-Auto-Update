@@ -66,11 +66,11 @@ This repository provides an **auto-updating system** that fetches working stream
 
 **Auto-updated JSON file:**
 
-➡️ [T Sports Channels JSON](https://raw.githubusercontent.com/abusaeeidx/T Sports-playlist/refs/heads/main/script_api/data.json)
+➡️ [T Sports Channels JSON](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/channels_data.json)
 
 ### 🔗 Direct Links
 
-- ✅ [JSON Channel Data]([https://raw.githubusercontent.com/abusaeeidx/](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/channels_data.json)
+- ✅ [JSON Channel Data](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/channels_data.json)
 - 📱 [NS Player M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/ns_player.m3u)
 - 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
 - 📺 [Universal M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
@@ -90,7 +90,7 @@ This repository provides an **auto-updating system** that fetches working stream
 
   
 ## 📝 Legal Notice  
-* ⛔ **I do not host any content, everything is publicly available. And any issues, please contact me.
+* ⛔ I do not host any content, everything is publicly available. And any issues, please contact me.
 * ⚠️ **For educational & research purposes only.** The followin It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me and I will delete it.
 * 🚫 If it violates content ownership, kindly report & we will remove it.
 * Please give me proper credit if you share this content. Otherwise, I will take it down.  
