@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.T Sports">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/T Sports-playlist/main/image/5-w.jpeg" alt="🔥 T Sports 🔥" width="80%">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
   🔥T Sports Playlist🔥
