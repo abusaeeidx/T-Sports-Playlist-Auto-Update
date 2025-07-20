@@ -38,21 +38,7 @@ This repository provides an **auto-updating system** that fetches working stream
 - ⚡ One-click use with any IPTV player
 
 ---
-
-
-
 ## 🕹️ How To Use
-
-### 🔗 Direct Links
-
-- ✅ [JSON Channel Data](https://raw.githubusercontent.com/YOUR_REPO_HERE/channels_data.json)
-- 📱 [NS Player M3U](https://raw.githubusercontent.com/YOUR_REPO_HERE/ns_player.m3u)
-- 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/YOUR_REPO_HERE/ott_navigator.m3u)
-- 🌐 [Universal M3U](https://raw.githubusercontent.com/YOUR_REPO_HERE/universal_player.m3u)
-
-> Replace `https://github.com/abusaeeidx/T-Sports-Playlist-Auto-Update` with your repository path (e.g., `user/abusaeeidx/main`)
-
----
 ## 🎥 How To Play  
   
 ### 📱 Android  
@@ -82,6 +68,15 @@ This repository provides an **auto-updating system** that fetches working stream
 
 ➡️ [T Sports Channels JSON](https://raw.githubusercontent.com/abusaeeidx/T Sports-playlist/refs/heads/main/script_api/data.json)
 
+### 🔗 Direct Links
+
+- ✅ [JSON Channel Data](https://raw.githubusercontent.com/abusaeeidx/channels_data.json)
+- 📱 [NS Player M3U](https://raw.githubusercontent.com/abusaeeidx/ns_player.m3u)
+- 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/abusaeeidx/ott_navigator.m3u)
+- 🌐 [Universal M3U](https://raw.githubusercontent.com/abusaeeidx/universal_player.m3u)
+
+
+---
 ## 📁 Available Files
 
 | File Name              | Description                                 |
