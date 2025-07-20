@@ -73,7 +73,7 @@ This repository provides an **auto-updating system** that fetches working stream
 - ✅ [JSON Channel Data](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/channels_data.json)
 - 📱 [NS Player M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/ns_player.m3u)
 - 📺 [OTT Navigator M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
-- 📺 [Universal M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main//ott_navigator.m3u)
+- 📺 [Universal M3U](https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/)
 
 
 ---
