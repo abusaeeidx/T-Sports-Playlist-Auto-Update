@@ -2,18 +2,18 @@
   "name": "TSports All Live Matches Data in Json",
   "owner": "Abu Saeeid X",
   "channels_amount": 1,
-  "Last Updated": "24-07-2025 10:12:18 PM (BD Time)",
+  "Last Updated": "24-07-2025 10:44:58 PM (BD Time)",
   "channels": [
     {
       "category_name": "LIVE",
       "name": "LIVE | Bangladesh vs Pakistan",
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg",
-      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1753373538300~hmac=a3b4a8477c96e8a3e045988b41c08855674e8661da52e5836fad3a8d03abf09a",
+      "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
       "headers": {
         "Cookie": "",
         "User-agent": "Abu-Saeeidx/5.0.6 (Linux;Android 11) AndroidXMedia",
-        "Origin": "https://live-test.tsports.com",
-        "Referer": "https://live-test.tsports.com/"
+        "Origin": "https://live.tsports.com",
+        "Referer": "https://live.tsports.com/"
       }
     }
   ]

@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg", LIVE | Bangladesh vs Pakistan
 #EXTVLCOPT:http-user-agent=Abu-Saeeidx/5.0.6 (Linux;Android 11) AndroidXMedia
-#EXTVLCOPT:http-referrer=https://live-test.tsports.com/
-#EXTVLCOPT:http-origin=https://live-test.tsports.com
-https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1753373538300~hmac=a3b4a8477c96e8a3e045988b41c08855674e8661da52e5836fad3a8d03abf09a?|Origin=https://live-test.tsports.com&referer=https://live-test.tsports.com/&cookie=&user-agent=Abu-Saeeidx/5.0.6 (Linux;Android 11) AndroidXMedia
+#EXTVLCOPT:http-referrer=https://live.tsports.com/
+#EXTVLCOPT:http-origin=https://live.tsports.com
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8?|Origin=https://live.tsports.com&referer=https://live.tsports.com/&cookie=&user-agent=Abu-Saeeidx/5.0.6 (Linux;Android 11) AndroidXMedia
 
