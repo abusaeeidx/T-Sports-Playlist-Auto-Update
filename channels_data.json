@@ -1,13 +1,25 @@
 {
   "name": "TSports All Live Matches Data in Json",
   "owner": "Abu Saeeid X",
-  "channels_amount": 1,
-  "Last Updated": "03-09-2025 01:09:23 PM (BD Time)",
+  "channels_amount": 2,
+  "Last Updated": "03-09-2025 01:30:05 PM (BD Time)",
   "channels": [
     {
       "category_name": "LIVE",
       "name": "T Sports Live 01",
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg",
+      "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
+      "headers": {
+        "Cookie": "",
+        "User-agent": "Abu-Saeeidx/5.0.6 (Linux;Android 11) AndroidXMedia",
+        "Origin": "https://live.tsports.com",
+        "Referer": "https://live.tsports.com/"
+      }
+    },
+    {
+      "category_name": "LIVE",
+      "name": "T Sports Live 02",
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg",
       "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
       "headers": {
         "Cookie": "",
