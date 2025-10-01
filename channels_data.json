@@ -2,12 +2,12 @@
   "name": "TSports All Live Matches Data in Json",
   "owner": "Abu Saeeid X",
   "channels_amount": 1,
-  "Last Updated": "26-09-2025 03:33:16 PM (BD Time)",
+  "Last Updated": "01-10-2025 05:08:17 PM (BD Time)",
   "channels": [
     {
       "category_name": "LIVE",
-      "name": "T Sports Live 01",
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg",
+      "name": "LIVE | India vs West Indies, 1st Test",
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1759314297-Promo-thum-1280.jpg",
       "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
       "headers": {
         "Cookie": "",
