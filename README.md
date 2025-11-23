@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.nex.tsports">
     <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
@@ -38,9 +38,7 @@ This repository provides an **auto-updating system** that fetches working stream
 - ⚡ One-click use with any IPTV player
 
 ---
-## 🕹️ How To Use
-## 🎥 How To Play  
-  
+## 🕹️ How To Use 
 ### 📱 Android  
   
 * Use **Network Stream Player** – [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)  
