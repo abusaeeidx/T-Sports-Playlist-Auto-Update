@@ -1,7 +1,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-27 13:57:34 (BD Time)
+# Update on 2025-11-27 14:35:53 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -12,16 +12,18 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD 🇧🇩 📺 (1)
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764207132&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ab36968b11c5f9844ae5ca1368790dce
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764236162&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=821ba6eee78c084a02523453efb66296
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (3)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (4)
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764207312&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=422d8da6ab04f0bba2fb07ab391334c2
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764236341&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=968a144df4461815257e4a79af19dd06
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (5)
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764207322&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=fd3a39a59e57888848d6ff4ae26f894e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (6)
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764236351&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=70abf63413ddf13bff9236ae738d6f17
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",t sports (6)
+http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=f305a534f6df3163881ca03880f6aa0996d4b5ae-fbb53e72e59ce5823c397fbd89370267-1764240038-1764229238
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (7)
 https://tvsen5.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (7)
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (8)
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (9)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
