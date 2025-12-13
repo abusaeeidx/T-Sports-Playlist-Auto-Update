@@ -1,7 +1,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-12-13 14:57:48 (BD Time)
+# Update on 2025-12-13 15:26:14 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -27,3 +27,5 @@ https://tvsen5.aynaott.com/tsports/index.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (9)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",t sports (10)
+http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=d28197fd7b25ab757aece606dbc9829ae11e2b51-f666ed51f012406f6ac96349b23b4efc-1765624246-1765613446
