@@ -1,7 +1,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2026-03-12 06:01:22 (BD Time)
+# Update on 2026-03-12 09:14:41 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -10,13 +10,13 @@
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (1)
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1773249936&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c8dabe9b919e6ce07f3451e3bd5b2872
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1773280457&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=89ad60ce2b3d293202bccc9e697dbe78
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (2)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (3)
 https://tvsen5.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",t sports (4)
-https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=064abc43192653aebf4c1fd94654dbb512ca060d-34d1a33e173f1c3d704134b707566a22-1773248368-1773244768
+https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=b7b1a7635ca6adb7a5bb2c864dec6141bde101dc-836ca15d48adb82e5ac84c8ee2addf40-1773277169-1773273569
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (5)
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (6)
