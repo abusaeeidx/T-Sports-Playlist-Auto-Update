@@ -1,7 +1,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2026-03-20 22:26:09 (BD Time)
+# Update on 2026-03-20 23:09:30 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -28,7 +28,7 @@ https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (9)
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T SPORTS (10)
-http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=997afcc3324d075ff0d7f19a382dbedfa8c61bc6-59afeffe6e0e429176d3d5fe7e3bb3ed-1774002925-1773992125&remote=no_check_ip
+http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=a1bc207d0c0464fa5709840fd1be6cbb150a5468-1c67adca999e9a087d49ebadd01b1490-1774031421-1774020621&remote=no_check_ip
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (11)
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (12)
