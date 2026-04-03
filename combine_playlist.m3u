@@ -1,7 +1,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2026-04-03 14:09:43 (BD Time)
+# Update on 2026-04-03 15:12:38 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -16,7 +16,7 @@ https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (4)
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1775180856&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=44c82fecf87f21872d09196c69da9258
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1775206016&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9110abb58a66a0c37b4905c9ec89b557
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T SPORTS (5)
 http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=0337229c3f681692019b28082560988b23e7b4c9-84859c699a15f1d6158d2418836e3885-1668513342-1668502542
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (6)
@@ -24,13 +24,13 @@ https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (7)
 https://tvsen5.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (8)
-https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (9)
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T SPORTS (10)
-http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=49d1b94231c3b066cde0196bc637f4a3ec478eec-4cef4f8045179c8347af136257c05ed9-1775183818-1775173018&remote=no_check_ip
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (11)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T SPORTS (9)
+http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=dce74d94eed419885634d6f91b6c655b6aaf1ff6-8fb0d588b3459802baaa9d51d5c44764-1775211301-1775200501&remote=no_check_ip
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (10)
 http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (11)
+https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (12)
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (13)
