@@ -1,7 +1,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2026-05-11 14:49:05 (BD Time)
+# Update on 2026-05-11 17:51:20 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -16,11 +16,11 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (3)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T SPORTS (4)
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=6a5e1f790e32cd0fcefc5be74633e036864c0577-3997e092bc0d3fd834aba88e123cf7ff-1778473307-1778462507
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=5adb4a6485fdbbb1e9bcbbe8dfe219deaa0c4e8f-ecf1099f0c883d1db606cff321182e82-1778488487-1778477687
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (5)
 http://127.0.0.1:8000/stream.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T SPORTS (6)
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=2a58be63578f75cd8d47aa096fe0e4228d53375c-3467066bd4b33ef81cd17cdb21af6656-1778466414-1778455614
+https://redbooks.site/gt.php?url=https://tv.roarzone.net/player.php?stream=edge2/tsports
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (7)
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (8)
