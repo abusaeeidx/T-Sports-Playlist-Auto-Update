@@ -1,10 +1,13 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2026-07-23 00:37:46 (BD Time)
+# Update on 2026-07-23 02:01:19 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
+#EXTM3U
 
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg", T Sports Live 01
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1)
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
